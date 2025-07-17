@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Google Business Profile for Local Visibility"
 description: "How we improved local SEO and lead generation for a service business in Lagos using Google Business Profile optimization strategies."
-pubDate: "Jun 20 2025"
+pubDate: "Jul 12 2025"
 heroImage: "/post_img.webp"
 tags: ["local SEO", "Google Business Profile", "case study"]
 ---

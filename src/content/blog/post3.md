@@ -1,7 +1,7 @@
 ---
 title: "Technical Site Audit for Hutchlam Services Limited"
 description: "We identified SEO and UX issues on Hutchlam’s site, giving recommendations to improve performance scores and laying the groundwork for long-term digital growth."
-pubDate: "Jul 12 2025"
+pubDate: "Jun 20 2025"
 heroImage: "/post_img.webp"
 tags: ["technical SEO", "site audit", "performance optimization"]
 ---
